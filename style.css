@@ -126,6 +126,13 @@ h1 span {
   color: var(--green);
 }
 
+.intro-heading {
+  margin: 14px 0 0;
+  color: var(--green);
+  font-size: 19px;
+  line-height: 1.25;
+}
+
 .intro {
   max-width: 430px;
   margin: 20px 0 0;
